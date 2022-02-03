@@ -1,0 +1,112 @@
+{
+    "model": "TestimonialsSection",
+    "presets": [
+        {
+            "label": "Testimonials transparent - with image, text left",
+            "thumbnail": "images/testimonials-transparent-image.png",
+            "data": {
+                "colors": "colors-f",
+                "variant": "variant-a",
+                "title": "",
+                "subtitle": "",
+                "testimonials": [
+                    {
+                        "quote": "\"Our website is the core of our sales strategy. Doris helped us establish an easy-to-maintain Stackbit site with outstanding visuals!\"",
+                        "name": "Oliver Mills",
+                        "title": "CEO at Parks",
+                        "image": {
+                            "type": "ImageBlock",
+                            "url": "/images/person-1.jpg",
+                            "altText": "A man fishing"
+                        }
+                    }
+                ],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": ["mt-0", "mb-0"],
+                        "padding": ["pt-28", "pb-28"],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            }
+        },
+        {
+            "label": "Testimonials dark - with small image, text left",
+            "thumbnail": "images/testimonials-dark-small-image.png",
+            "data": {
+                "colors": "colors-e",
+                "variant": "variant-b",
+                "title": "",
+                "subtitle": "",
+                "testimonials": [
+                    {
+                        "quote": "\"Our website is the core of our sales strategy. Doris helped us establish an easy-to-maintain Stackbit site with outstanding visuals!\"",
+                        "name": "John Doe",
+                        "title": "CEO at Parks",
+                        "image": {
+                            "type": "ImageBlock",
+                            "url": "/images/person-2.jpg",
+                            "altText": "John Doe"
+                        }
+                    }
+                ],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": ["mt-0", "mb-0"],
+                        "padding": ["pt-28", "pb-28"],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    }
+                }
+            }
+        },
+        {
+            "label": "Testimonials secondary - no image, text centered",
+            "thumbnail": "images/testimonials-secondary-text-centered.png",
+            "data": {
+                "colors": "colors-d",
+                "variant": "variant-c",
+                "title": "",
+                "subtitle": "",
+                "testimonials": [
+                    {
+                        "quote": "\"Our website is the core of our sales strategy. Doris helped us establish an easy-to-maintain Stackbit site with outstanding visuals!\"",
+                        "name": "Isabelle Parks",
+                        "title": "CTO at Parks",
+                        "image": null
+                    }
+                ],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": ["mt-0", "mb-0"],
+                        "padding": ["pt-28", "pb-28"],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            }
+        }
+    ]
+}

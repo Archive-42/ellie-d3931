@@ -45,6 +45,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: About Ellie
   - type: DividerSection
     styles:
       self:

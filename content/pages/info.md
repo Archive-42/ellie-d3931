@@ -1,7 +1,7 @@
 ---
 title: About
 layout: PageLayout
-colors: colors-a
+colors: colors-b
 backgroundImage:
   url: /images/bg4.jpg
   backgroundSize: cover

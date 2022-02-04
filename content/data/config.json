@@ -4,7 +4,7 @@
     "header": {
         "headerVariant": "variant-c",
         "isSticky": true,
-        "title": "Personal",
+        "title": "Ellie",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -24,6 +24,16 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
+            },
+            {
+                "label": "About",
+                "altText": "about ellie",
+                "url": "/about",
+                "showIcon": true,
+                "icon": "arrowLeft",
+                "iconPosition": "left",
+                "elementId": "about",
+                "type": "Link"
             }
         ],
         "socialLinks": [

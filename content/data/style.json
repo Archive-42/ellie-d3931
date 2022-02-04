@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "fontBody": "fontSecondary",
+    "fontBody": "fontPrimary",
     "h1": {
         "size": "7xl",
         "weight": "medium",
@@ -47,7 +47,7 @@
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#feffcc",
-    "primary": "#2f9eec",
+    "primary": "#dff2ff",
     "onPrimary": "#ffffff",
     "secondary": "#fffe37cc",
     "onSecondary": "#050806",
@@ -55,10 +55,10 @@
     "onComplementary": "#FBFFF2",
     "buttonPrimary": {
         "weight": "medium",
-        "case": "capitalize",
+        "case": "uppercase",
         "letterSpacing": "wider",
-        "horizontalPadding": 24,
-        "verticalPadding": 17
+        "horizontalPadding": 30,
+        "verticalPadding": 30
     },
     "buttonSecondary": {
         "weight": "medium",
@@ -69,7 +69,7 @@
     },
     "link": {
         "weight": "medium",
-        "case": "capitalize",
+        "case": "uppercase",
         "letterSpacing": "wider"
     }
 }

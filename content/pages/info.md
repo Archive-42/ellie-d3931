@@ -3,7 +3,7 @@ title: About
 layout: PageLayout
 colors: colors-b
 backgroundImage:
-  url: /images/bg4.jpg
+  url: /images/cool.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

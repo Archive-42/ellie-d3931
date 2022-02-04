@@ -192,4 +192,5 @@ sections:
       text:
         textAlign: left
 socialImage: /images/ellie-main.jpg
+addTitleSuffix: true
 ---

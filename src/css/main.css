@@ -25,12 +25,7 @@ html{
 
    
    background: hsb($hue, $saturation, 98);
-   background-image:
-     url(/img/noise.png),
-     radial-gradient(ellipse farthest-side at 25% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
-     radial-gradient(ellipse farthest-side at 75% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
-     radial-gradient(circle closest-corner at 50% 0%, hsb($hue, $saturation, 96), hsb($hue, $saturation, 86))
-   ;
+
   background: white;
   font-size: 16px;
 }

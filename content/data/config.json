@@ -114,12 +114,12 @@
         ],
         "contacts": {
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "phoneNumber": "551-254-5505",
+            "phoneAltText": "Contact",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "150 Henley Place, Weehawken, NJ",
+            "elementId": "contact",
+            "email": "bryan.guner@gmail.com"
         },
         "copyrightText": "Placeholder\n\n",
         "styles": {

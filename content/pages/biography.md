@@ -310,6 +310,15 @@ sections:
             showIcon: false
             icon: ''
             url: 'https://www.instagram.com/'
+          - label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+            type: Button
         styles:
           self:
             textAlign: left

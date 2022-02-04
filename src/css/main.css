@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+@import url('https:fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -21,20 +21,20 @@
 body,button,input,textarea{ font-family: Verdana, Arial, sans-serif;}
 
 html{
-  // background-attachment: fixed;
-  // background-color: $html;
-  // background-image:
-  //   url(/img/noise.png),
-  //   radial-gradient(ellipse farthest-side at 25% 100%, darken($html, 20%), rgba($html, 0)),
-  //   radial-gradient(ellipse farthest-side at 100% 75%, darken($html, 10%), rgba($html, 0)),
-  //   radial-gradient(circle closest-corner at 50% 0%, lighten($html, 10%), $html);
-  // background: hsb($hue, $saturation, 98);
-  // background-image:
-  //   url(/img/noise.png),
-  //   radial-gradient(ellipse farthest-side at 25% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
-  //   radial-gradient(ellipse farthest-side at 75% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
-  //   radial-gradient(circle closest-corner at 50% 0%, hsb($hue, $saturation, 96), hsb($hue, $saturation, 86))
-  // ;
+   background-attachment: fixed;
+   background-color: $html;
+   background-image:
+     url(/img/noise.png),
+     radial-gradient(ellipse farthest-side at 25% 100%, darken($html, 20%), rgba($html, 0)),
+     radial-gradient(ellipse farthest-side at 100% 75%, darken($html, 10%), rgba($html, 0)),
+     radial-gradient(circle closest-corner at 50% 0%, lighten($html, 10%), $html);
+   background: hsb($hue, $saturation, 98);
+   background-image:
+     url(/img/noise.png),
+     radial-gradient(ellipse farthest-side at 25% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
+     radial-gradient(ellipse farthest-side at 75% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
+     radial-gradient(circle closest-corner at 50% 0%, hsb($hue, $saturation, 96), hsb($hue, $saturation, 86))
+   ;
   background: white;
   font-size: 16px;
 }

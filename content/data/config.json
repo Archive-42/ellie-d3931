@@ -28,7 +28,7 @@
             {
                 "label": "About",
                 "altText": "about ellie",
-                "url": "/",
+                "url": "/about",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

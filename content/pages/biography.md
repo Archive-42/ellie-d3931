@@ -7,7 +7,7 @@ metaTags: []
 title: 'Biography '
 colors: colors-b
 backgroundImage:
-  url: /images/background.gif
+  url: /images/sky.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

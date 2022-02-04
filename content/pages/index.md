@@ -1,13 +1,13 @@
 ---
 title: Home
 layout: PageLayout
-colors: colors-a
+colors: colors-c
 backgroundImage:
-  url: /images/bg1.jpg
+  url: /images/wallpaper.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 91
 sections:
   - elementId: ''
     colors: colors-f
@@ -31,9 +31,13 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        alignItems: center
+        alignItems: flex-end
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
+        borderWidth: 1
+        borderStyle: dashed
+        borderColor: border-dark
+        borderRadius: medium
       title:
         textAlign: left
       subtitle:
@@ -191,4 +195,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/ellie-main.jpg
+addTitleSuffix: false
+metaDescription: friends
 ---

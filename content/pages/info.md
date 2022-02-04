@@ -101,6 +101,7 @@ sections:
         label: C++
       - type: Label
         label: Swift
+    elementId: skills
   - type: DividerSection
     styles:
       self:

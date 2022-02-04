@@ -307,7 +307,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            showIcon: false
+            showIcon: true
             icon: ''
             url: 'https://www.instagram.com/'
           - label: Learn more

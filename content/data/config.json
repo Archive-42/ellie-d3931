@@ -115,7 +115,7 @@
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "551-254-5505",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "Contact",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",

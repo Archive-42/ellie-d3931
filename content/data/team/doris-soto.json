@@ -5,7 +5,8 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/profile.png",
-        "altText": "Bryan Guner photo"
+        "altText": "Bryan Guner photo",
+        "elementId": "bg-image"
     },
     "role": "Brother"
 }

@@ -17,7 +17,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/ellie-main.jpg
       altText: Hero image
     styles:
       self:

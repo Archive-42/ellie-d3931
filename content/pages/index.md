@@ -9,44 +9,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 91
 sections:
-  - colors: colors-a
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-a
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: ''
-    subtitle: 'Projects:'
-    recentCount: 6
-    showAuthor: false
-    type: RecentProjectsSection
   - elementId: ''
     colors: colors-f
     backgroundSize: full

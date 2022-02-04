@@ -35,6 +35,7 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         borderWidth: 1
+        borderStyle: dashed
       title:
         textAlign: left
       subtitle:

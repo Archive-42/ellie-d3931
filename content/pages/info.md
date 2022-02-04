@@ -9,7 +9,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - elementId: about-ellie
     colors: colors-f
     backgroundSize: full
     text: |+

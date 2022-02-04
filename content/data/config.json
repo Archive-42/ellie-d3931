@@ -3,7 +3,7 @@
     "favicon": "/images/ellie-main.jpg",
     "header": {
         "headerVariant": "variant-c",
-        "isSticky": true,
+        "isSticky": false,
         "title": "Ellie",
         "isTitleVisible": true,
         "primaryLinks": [
@@ -68,7 +68,7 @@
         ],
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "full",
                 "padding": [
                     "pt-4",
                     "pb-4",

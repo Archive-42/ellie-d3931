@@ -297,18 +297,6 @@ sections:
         text: ''
         actions:
           - type: Link
-            label: Discord
-            showIcon: false
-            icon: ''
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        text: ''
-        actions:
-          - type: Link
             label: Instagram
             showIcon: true
             icon: instagram

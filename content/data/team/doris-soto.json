@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Bryan",
+    "lastName": "Guner",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/profile.png",
+        "altText": "Bryan Guner photo",
+        "elementId": "bg-profile-image"
+    },
+    "role": "Brother"
 }

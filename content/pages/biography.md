@@ -65,7 +65,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/67071794_3094451147233506_4765772686045478912_n.jpg
+        url: /images/ellie-main.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock

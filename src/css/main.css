@@ -265,6 +265,153 @@ td { vertical-align: top; }
 
 
 
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5
+}
+
+ol[class],
+ul[class] {
+  list-style: none
+}
+
+a:not([class]) {
+  -webkit-text-decoration-skip: ink;
+  text-decoration-skip-ink: auto
+}
+
+img {
+  max-width: 100%;
+  display: block
+}
+
+article>*+* {
+  margin-top: 1em
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit
+}
+
+@media(prefers-reduced-motion:reduce) {
+  * {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important
+  }
+}
+
+html {
+  background-color: #fff;
+  box-sizing: border-box;
+  color: #212121
+}
+
+body {
+  font-family: arial, x-locale-body, sans-serif;
+  letter-spacing: -.0027777778rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 100%;
+  line-height: 1.75
+}
+
+img {
+  height: auto
+}
+
+@font-face {
+  font-display: swap;
+  font-family: zillaslab;
+  font-style: normal;
+  font-weight: 700;
+  src: url(/static/media/ZillaSlab-Bold.subset.0beac26b.woff2) format("woff2"), url(/static/media/ZillaSlab-Bold.subset.72026b3c.woff) format("woff")
+}
+
+@font-face {
+  font-display: swap;
+  font-family: zillaslab;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/static/media/ZillaSlab-Regular.subset.ce3a756d.woff2) format("woff2"), url(/static/media/ZillaSlab-Regular.subset.7e4c05c9.woff) format("woff")
+}
+
+h1,
+h2,
+h3 {
+  font-family: zillaslab, palatino, "Palatino Linotype", serif;
+  line-height: 1.2
+}
+
+h1 {
+  font-size: 1.802rem
+}
+
+@media (min-width:47.9385em) {
+  h1 {
+    font-size: 3.052rem
+  }
+}
+
+h2 {
+  font-size: 1.602rem
+}
+
+@media (min-width:47.9385em) {
+  h2 {
+    font-size: 2.441rem
+  }
+}
+
+h3 {
+  font-size: 1.424rem;
+
+  color: #fff;
+  font-family: zillaslab, palatino, "Palatino Linotype", serif;
+  font-weight: 400;
+  max-width: -webkit-max-content;
+  max-width: -moz-max-content;
+  max-width: max-content;
+  padding: 0 6px;
+  margin: 24px 0
+}
+
+@media (min-width:47.9385em) {
+  h3 {
+    font-size: 1.953rem
+  }
+}
+
+h4 {
+  font-size: 1.266rem
+}
+
+@media (min-width:47.9385em) {
+  h4 {
+    font-size: 1.563rem
+  }
+}
+
+h5 {
+  font-size: 1.125rem
+}
+
+@media (min-width:47.9385em) {
+  h5 {
+    font-size: 1.25rem
+  }
+}
+
+p {
+  margin-bottom: 24px
+}
+
 /* ==|== print styles =======================================================
    Print styles.
    Inlined to avoid required HTTP connection: h5bp.com/r

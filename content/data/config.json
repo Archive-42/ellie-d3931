@@ -2,8 +2,8 @@
     "type": "Config",
     "favicon": "/images/ellie-main.jpg",
     "header": {
-        "headerVariant": "variant-c",
-        "isSticky": false,
+        "headerVariant": "variant-a",
+        "isSticky": true,
         "title": "Ellie",
         "isTitleVisible": true,
         "primaryLinks": [
@@ -68,12 +68,12 @@
         ],
         "styles": {
             "self": {
-                "width": "full",
+                "width": "wide",
                 "padding": [
-                    "pt-4",
-                    "pb-4",
-                    "pr-4",
-                    "pl-4"
+                    "pt-1",
+                    "pb-1",
+                    "pr-1",
+                    "pl-1"
                 ]
             }
         },
@@ -81,7 +81,6 @@
             "url": "/images/66648121_3094451020566852_8148644792738250752_n.jpg",
             "altText": "friends",
             "caption": "Ellie & Amanda",
-            "elementId": "nav",
             "type": "ImageBlock"
         }
     },

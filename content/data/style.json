@@ -41,7 +41,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "wide"
     },
     "light": "#ffffff",
     "onLight": "#050806",

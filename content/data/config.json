@@ -11,7 +11,8 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "cart"
             },
             {
                 "type": "Link",

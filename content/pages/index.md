@@ -193,4 +193,5 @@ sections:
         textAlign: left
 socialImage: /images/ellie-main.jpg
 addTitleSuffix: false
+metaDescription: friends
 ---

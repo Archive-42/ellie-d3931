@@ -263,6 +263,7 @@ sections:
             textAlign: left
             borderRadius: medium
             borderColor: border-complementary
+            borderWidth: 1
       - type: FeaturedItem
         title: ''
         text: ''

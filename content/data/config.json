@@ -12,7 +12,7 @@
                 "label": "Info",
                 "url": "/info",
                 "showIcon": true,
-                "icon": "cart",
+                "icon": "arrowLeft",
                 "iconPosition": "left"
             },
             {

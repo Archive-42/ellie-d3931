@@ -32,11 +32,25 @@
                 "icon": "twitter"
             },
             {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/stackbit-themes",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -49,6 +63,13 @@
                     "pl-4"
                 ]
             }
+        },
+        "logo": {
+            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "type": "ImageBlock"
         }
     },
     "footer": {

@@ -65,7 +65,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/67071794_3094451147233506_4765772686045478912_n.jpg
+        url: /images/ellie-main.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
@@ -176,50 +176,6 @@ sections:
           - pr-0
         justifyContent: center
         borderWidth: 1
-  - type: MediaGallerySection
-    colors: colors-f
-    title: ''
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: logo five
-    columns: 5
-    spacing: 16
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     styles:
       self:
@@ -261,6 +217,10 @@ sections:
         styles:
           self:
             textAlign: left
+            borderRadius: medium
+            borderColor: border-complementary
+            borderWidth: 1
+            borderStyle: solid
       - type: FeaturedItem
         title: ''
         text: ''
@@ -273,27 +233,13 @@ sections:
         styles:
           self:
             textAlign: left
+            borderColor: border-complementary
+            borderWidth: 1
+            borderStyle: solid
       - type: FeaturedItem
         title: ''
         text: ''
-        actions:
-          - type: Link
-            label: CodePen
-            showIcon: false
-            icon: ''
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        text: ''
-        actions:
-          - type: Link
-            label: Discord
-            showIcon: false
-            icon: ''
-            url: 'https://discord.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -303,9 +249,11 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            showIcon: false
-            icon: ''
+            showIcon: true
+            icon: instagram
             url: 'https://www.instagram.com/'
+            iconPosition: left
+            elementId: insta
         styles:
           self:
             textAlign: left

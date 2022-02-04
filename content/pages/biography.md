@@ -283,12 +283,7 @@ sections:
       - type: FeaturedItem
         title: ''
         text: ''
-        actions:
-          - type: Link
-            label: CodePen
-            showIcon: false
-            icon: ''
-            url: 'https://codepen.io/'
+        actions: []
         styles:
           self:
             textAlign: left

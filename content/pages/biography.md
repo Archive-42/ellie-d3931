@@ -278,6 +278,7 @@ sections:
           self:
             textAlign: left
             borderColor: border-complementary
+            borderWidth: 2
       - type: FeaturedItem
         title: ''
         text: ''

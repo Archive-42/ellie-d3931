@@ -54,6 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
     backgroundSize: full
+    elementId: bio
   - type: DividerSection
     styles:
       self:

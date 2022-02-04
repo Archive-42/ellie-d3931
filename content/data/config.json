@@ -3,7 +3,7 @@
     "favicon": "/images/ellie-main.jpg",
     "header": {
         "headerVariant": "variant-c",
-        "isSticky": false,
+        "isSticky": true,
         "title": "Personal",
         "isTitleVisible": true,
         "primaryLinks": [

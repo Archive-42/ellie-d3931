@@ -30,7 +30,7 @@
                 "altText": "about ellie",
                 "url": "/about",
                 "showIcon": false,
-                "icon": "arrowRight",
+                "icon": "arrowLeft",
                 "iconPosition": "left",
                 "elementId": "",
                 "type": "Link"

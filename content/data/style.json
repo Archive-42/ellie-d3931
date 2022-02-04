@@ -58,7 +58,7 @@
         "case": "uppercase",
         "letterSpacing": "wider",
         "horizontalPadding": 30,
-        "verticalPadding": 17
+        "verticalPadding": 30
     },
     "buttonSecondary": {
         "weight": "medium",

@@ -130,5 +130,11 @@
             }
         }
     },
-    "defaultSocialImage": "/images/ellie-main.jpg"
+    "defaultSocialImage": "/images/ellie-main.jpg",
+    "defaultMetaTags": [
+        {
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }

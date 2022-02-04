@@ -279,6 +279,7 @@ sections:
             textAlign: left
             borderColor: border-complementary
             borderWidth: 1
+            borderStyle: solid
       - type: FeaturedItem
         title: ''
         text: ''

@@ -27,7 +27,7 @@
             },
             {
                 "label": "About",
-                "altText": "",
+                "altText": "about ellie",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",

@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 colors: colors-b
 backgroundImage:
-  url: /images/bg1.jpg
+  url: /images/wallpaper.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

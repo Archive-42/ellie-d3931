@@ -135,6 +135,10 @@
         {
             "property": "og:title",
             "content": ""
+        },
+        {
+            "property": "og:title",
+            "content": ""
         }
     ]
 }

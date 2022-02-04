@@ -134,6 +134,37 @@ sections:
         fontStyle: normal
         textAlign: center
     type: QuoteSection
+  - colors: colors-f
+    elementId: ''
+    variant: variant-a
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >-
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: Oliver Mills
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-1.jpg
+          altText: A man fishing
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-28
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: TestimonialsSection
   - type: DividerSection
     styles:
       self:

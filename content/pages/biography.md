@@ -310,6 +310,7 @@ sections:
             showIcon: true
             icon: instagram
             url: 'https://www.instagram.com/'
+            iconPosition: left
           - label: Learn more
             altText: ''
             url: /

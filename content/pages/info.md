@@ -60,7 +60,7 @@ sections:
   - colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: 'Professional Skills:'
     subtitle: ''
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

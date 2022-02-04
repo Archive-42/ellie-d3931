@@ -32,7 +32,7 @@
                 "showIcon": true,
                 "icon": "arrowLeft",
                 "iconPosition": "left",
-                "elementId": "",
+                "elementId": "about",
                 "type": "Link"
             }
         ],

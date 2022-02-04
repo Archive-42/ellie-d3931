@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "fontBody": "fontPrimary",
+    "fontBody": "fontSecondary",
     "h1": {
         "size": "7xl",
         "weight": "medium",
@@ -48,7 +48,7 @@
     "dark": "#000000",
     "onDark": "#FBFFF2",
     "primary": "#2f9eec",
-    "onPrimary": "#FBFFF2",
+    "onPrimary": "#ffffff",
     "secondary": "#fffe37cc",
     "onSecondary": "#050806",
     "complementary": "#565862",

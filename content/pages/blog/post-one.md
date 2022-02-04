@@ -1,11 +1,10 @@
 ---
-title: How I started a startup 🚀
+title: "How I started a startup \U0001F680"
 colors: colors-a
 layout: PostLayout
-date: '2021-06-28'
+date: '2022-02-04'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
@@ -51,7 +50,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock

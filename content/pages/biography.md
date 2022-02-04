@@ -26,7 +26,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/ellie.jpg
       altText: Hero image
     styles:
       self:

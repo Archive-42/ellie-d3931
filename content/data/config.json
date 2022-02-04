@@ -92,7 +92,8 @@
                 "label": "About",
                 "url": "/biography",
                 "altText": "about ellie",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "arrowLeft"
             },
             {
                 "type": "Link",

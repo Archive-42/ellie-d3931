@@ -29,7 +29,7 @@
                 "label": "About",
                 "altText": "about ellie",
                 "url": "/about",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowLeft",
                 "iconPosition": "left",
                 "elementId": "",

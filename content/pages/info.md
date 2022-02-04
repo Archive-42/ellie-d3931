@@ -44,7 +44,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: About Ellie
-    subtitle: The life of a
+    subtitle: The life of an incredible
   - type: DividerSection
     styles:
       self:

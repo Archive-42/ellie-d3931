@@ -91,7 +91,8 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/biography",
-                "altText": "about ellie"
+                "altText": "about ellie",
+                "showIcon": true
             },
             {
                 "type": "Link",

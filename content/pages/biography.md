@@ -311,6 +311,7 @@ sections:
             icon: instagram
             url: 'https://www.instagram.com/'
             iconPosition: left
+            elementId: insta
           - label: Learn more
             altText: ''
             url: /

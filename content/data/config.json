@@ -118,7 +118,6 @@
             "phoneAltText": "Contact",
             "emailAltText": "My email",
             "address": "150 Henley Place, Weehawken, NJ",
-            "addressAltText": "My address",
             "elementId": "contact",
             "email": "bryan.guner@gmail.com"
         },

@@ -90,7 +90,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/",
+                "url": "/biography",
                 "altText": "about ellie"
             },
             {

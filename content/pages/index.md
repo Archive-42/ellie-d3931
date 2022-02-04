@@ -4,7 +4,7 @@ layout: PageLayout
 colors: colors-a
 backgroundImage:
   url: /images/wallpaper.gif
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 91

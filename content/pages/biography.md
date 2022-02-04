@@ -261,6 +261,7 @@ sections:
         styles:
           self:
             textAlign: left
+            borderRadius: medium
       - type: FeaturedItem
         title: ''
         text: ''

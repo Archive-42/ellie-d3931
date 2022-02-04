@@ -68,7 +68,7 @@
             "url": "/images/66648121_3094451020566852_8148644792738250752_n.jpg",
             "altText": "altText of the image",
             "caption": "Caption of the image",
-            "elementId": "",
+            "elementId": "nav",
             "type": "ImageBlock"
         }
     },

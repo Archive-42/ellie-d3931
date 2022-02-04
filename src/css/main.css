@@ -20,15 +20,6 @@
 }
 body,button,input,textarea{ font-family: Verdana, Arial, sans-serif;}
 
-html{
-   background-attachment: fixed;
-
-   
-   background: hsb($hue, $saturation, 98);
-
-  background: white;
-  font-size: 16px;
-}
 body{ color: $text; font-size: 1rem; -webkit-font-smoothing: antialiased; line-height: 1.5; margin: 0 auto; text-rendering: optimizeLegibility;}
 a{ color: $link;}
   a:visited{ color: $link-visited;}

@@ -43,7 +43,7 @@
         "postcss-nested": "^5.0.6",
         "prettier": "^2.5.1",
         "sass": "^1.40.0",
-        "typescript": "^4.5.2",
+        "typescript": "4.5.5",
         "webpack-bundle-analyzer": "^4.4.2"
     },
     "description": "A Nextjs page builder, component library and data source mapper all in one.",

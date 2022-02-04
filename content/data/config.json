@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/ellie-main.jpg",
     "header": {
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-b",
         "isSticky": true,
         "title": "Ellie",
         "isTitleVisible": true,

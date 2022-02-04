@@ -51,6 +51,13 @@
                 "url": "/",
                 "icon": "facebook",
                 "elementId": ""
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {

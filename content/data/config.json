@@ -89,9 +89,12 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
+                "label": "About",
+                "url": "/biography",
+                "altText": "about ellie",
+                "showIcon": true,
+                "icon": "arrowLeft",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
@@ -103,12 +106,6 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/stackbit-themes",
                 "altText": ""
             }
         ],

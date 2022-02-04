@@ -21,7 +21,7 @@
 body,button,input,textarea{ font-family: Verdana, Arial, sans-serif;}
 
 html{
-  // background-attachment: fixed;
+  /* // background-attachment: fixed;
   // background-color: $html;
   // background-image:
   //   url(/img/noise.png),
@@ -34,7 +34,7 @@ html{
   //   radial-gradient(ellipse farthest-side at 25% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
   //   radial-gradient(ellipse farthest-side at 75% 100%, hsb($hue, $saturation, 71), hsb($hue, $saturation, 71, 0)),
   //   radial-gradient(circle closest-corner at 50% 0%, hsb($hue, $saturation, 96), hsb($hue, $saturation, 86))
-  // ;
+  // ; */
   background: white;
   font-size: 16px;
 }

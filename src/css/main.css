@@ -23,11 +23,7 @@ body,button,input,textarea{ font-family: Verdana, Arial, sans-serif;}
 html{
    background-attachment: fixed;
 
-   background-image:
-     url(/img/noise.png),
-     radial-gradient(ellipse farthest-side at 25% 100%, darken($html, 20%), rgba($html, 0)),
-     radial-gradient(ellipse farthest-side at 100% 75%, darken($html, 10%), rgba($html, 0)),
-     radial-gradient(circle closest-corner at 50% 0%, lighten($html, 10%), $html);
+   
    background: hsb($hue, $saturation, 98);
    background-image:
      url(/img/noise.png),

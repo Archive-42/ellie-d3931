@@ -14,7 +14,7 @@ backgroundImage:
   opacity: 80
 sections:
   - type: HeroSection
-    colors: colors-b
+    colors: colors-f
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.

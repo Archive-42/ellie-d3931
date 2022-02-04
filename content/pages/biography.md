@@ -264,6 +264,7 @@ sections:
             borderRadius: medium
             borderColor: border-complementary
             borderWidth: 1
+            borderStyle: solid
       - type: FeaturedItem
         title: ''
         text: ''

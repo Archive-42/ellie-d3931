@@ -7,7 +7,7 @@ metaTags: []
 title: 'Biography '
 colors: colors-b
 backgroundImage:
-  url: /images/sky.gif
+  url: /images/clouds.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -55,6 +55,116 @@ sections:
         justifyContent: flex-start
     backgroundSize: full
     elementId: bio
+  - colors: colors-a
+    elementId: ''
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+      - type: ImageBlock
+        url: /images/67071794_3094451147233506_4765772686045478912_n.jpg
+        altText: Image two
+        caption: Image two caption
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
+  - colors: colors-f
+    elementId: ''
+    quote: >-
+      “We think coding should be required in every school because it's as
+      important as any kind of second language.”
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight: 500
+        fontStyle: normal
+        textAlign: center
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+    type: QuoteSection
+  - colors: colors-f
+    elementId: ''
+    variant: variant-a
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >-
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: Oliver Mills
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-1.jpg
+          altText: A man fishing
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-28
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: TestimonialsSection
   - type: DividerSection
     styles:
       self:

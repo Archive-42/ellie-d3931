@@ -1,0 +1,12 @@
+{
+    "type": "Person",
+    "firstName": "Bryan",
+    "lastName": "Guner",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/profile.png",
+        "altText": "Bryan Guner photo",
+        "elementId": "bg-profile-image"
+    },
+    "role": "Brother"
+}

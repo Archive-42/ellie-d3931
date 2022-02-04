@@ -70,10 +70,10 @@
             "self": {
                 "width": "full",
                 "padding": [
-                    "pt-4",
-                    "pb-4",
-                    "pr-4",
-                    "pl-4"
+                    "pt-0",
+                    "pb-0",
+                    "pr-0",
+                    "pl-0"
                 ]
             }
         },

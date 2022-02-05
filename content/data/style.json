@@ -6,7 +6,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "wider"
+        "letterSpacing": "normal"
     },
     "h2": {
         "size": "5xl",

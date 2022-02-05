@@ -2,11 +2,11 @@
     "type": "ThemeStyle",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "7xl",
-        "weight": "medium",
-        "decoration": "underline",
-        "case": "capitalize",
-        "letterSpacing": "wider"
+        "size": "5xl",
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
     },
     "h2": {
         "size": "5xl",
@@ -44,15 +44,15 @@
         "letterSpacing": "wide"
     },
     "light": "#ffffff",
-    "onLight": "#050806",
+    "onLight": "#97e5b1",
     "dark": "#4c4c4c",
-    "onDark": "#babaad",
-    "primary": "#dff2ff",
-    "onPrimary": "#ffffff",
-    "secondary": "#fffe37cc",
+    "onDark": "#434338",
+    "primary": "#e3eaef",
+    "onPrimary": "#221212",
+    "secondary": "#fbfb73cc",
     "onSecondary": "#050806",
     "complementary": "#565862",
-    "onComplementary": "#FBFFF2",
+    "onComplementary": "#fdfdfd",
     "buttonPrimary": {
         "weight": "medium",
         "case": "uppercase",
@@ -61,15 +61,15 @@
         "verticalPadding": 30
     },
     "buttonSecondary": {
-        "weight": "medium",
-        "case": "uppercase",
-        "letterSpacing": "wider",
-        "horizontalPadding": 30,
-        "verticalPadding": 30
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "horizontalPadding": 16,
+        "verticalPadding": 20
     },
     "link": {
-        "weight": "medium",
+        "weight": "normal",
         "case": "none",
-        "letterSpacing": "wider"
+        "letterSpacing": "normal"
     }
 }

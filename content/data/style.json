@@ -62,7 +62,7 @@
     },
     "buttonSecondary": {
         "weight": "normal",
-        "case": "capitalize",
+        "case": "none",
         "letterSpacing": "normal",
         "horizontalPadding": 16,
         "verticalPadding": 20

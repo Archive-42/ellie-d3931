@@ -85,6 +85,7 @@ sections:
       actions:
         justifyContent: flex-end
     title: 'Achievements '
+    subtitle: Including but far from limited to…
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

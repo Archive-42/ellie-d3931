@@ -2,14 +2,15 @@
 title: Another cool project
 colors: colors-a
 layout: ProjectLayout
-date: '2021-12-20'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+date: '2015-09-20'
+client: United Nations
+description: Internship
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
+  url: /images/480F9826-247C-49EF-A889-830FA04F3EF7.jpeg
+  altText: United nations
+  elementId: UNation
+  caption: In highschool Ellie enrolled in a part time internship with the U.N.
 media:
   type: ImageBlock
   url: /images/bg2.jpg

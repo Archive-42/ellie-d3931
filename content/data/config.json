@@ -2,8 +2,8 @@
     "type": "Config",
     "favicon": "/images/ellie-main.jpg",
     "header": {
-        "headerVariant": "variant-a",
-        "isSticky": true,
+        "headerVariant": "variant-c",
+        "isSticky": false,
         "title": "Ellie",
         "isTitleVisible": true,
         "primaryLinks": [
@@ -28,9 +28,9 @@
             {
                 "label": "About",
                 "altText": "about ellie",
-                "url": "/about",
+                "url": "
                 "showIcon": true,
-                "icon": "arrowLeft",
+                "icon": "arrowRight",
                 "iconPosition": "left",
                 "elementId": "about",
                 "type": "Link"
@@ -68,7 +68,7 @@
         ],
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "full",
                 "padding": [
                     "pt-1",
                     "pb-1",
@@ -130,5 +130,15 @@
             }
         }
     },
-    "defaultSocialImage": "/images/ellie-main.jpg"
+    "defaultSocialImage": "/images/ellie-main.jpg",
+    "defaultMetaTags": [
+        {
+            "property": "og:title",
+            "content": ""
+        },
+        {
+            "property": "og:description",
+            "content": "In memory of Ellie Guner 1997-2022"
+        }
+    ]
 }

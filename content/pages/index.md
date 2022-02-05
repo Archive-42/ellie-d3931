@@ -87,11 +87,11 @@ sections:
     title: 'Achievements '
     subtitle: Including but far from limited to…
   - type: FeaturedPostsSection
-    elementId: ''
+    elementId: featured
     colors: colors-f
-    variant: variant-d
+    variant: variant-b
     subtitle: Posts
-    showFeaturedImage: false
+    showFeaturedImage: true
     actions:
       - type: Link
         label: See all posts
@@ -128,6 +128,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    showAuthor: true
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -199,4 +200,5 @@ sections:
 socialImage: /images/ellie-main.jpg
 addTitleSuffix: false
 metaDescription: friends
+metaTitle: Ellie's friends
 ---

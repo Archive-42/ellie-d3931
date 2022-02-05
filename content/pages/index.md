@@ -84,6 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: 'Achievements '
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

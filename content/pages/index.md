@@ -87,7 +87,7 @@ sections:
     title: 'Achievements '
     subtitle: Including but far from limited to…
   - type: FeaturedPostsSection
-    elementId: ''
+    elementId: featured
     colors: colors-f
     variant: variant-b
     subtitle: Posts

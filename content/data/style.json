@@ -68,7 +68,7 @@
         "verticalPadding": 20
     },
     "link": {
-        "weight": "medium",
+        "weight": "normal",
         "case": "none",
         "letterSpacing": "wider"
     }

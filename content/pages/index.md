@@ -199,4 +199,5 @@ sections:
 socialImage: /images/ellie-main.jpg
 addTitleSuffix: false
 metaDescription: friends
+metaTitle: Ellie's friends
 ---

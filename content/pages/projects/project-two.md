@@ -8,7 +8,7 @@ description: Internship
 featuredImage:
   type: ImageBlock
   url: /images/480F9826-247C-49EF-A889-830FA04F3EF7.jpeg
-  altText: Project thumbnail image
+  altText: United nations
   elementId: UNation
   caption: In highschool Ellie enrolled in a part time internship with the U.N.
 media:

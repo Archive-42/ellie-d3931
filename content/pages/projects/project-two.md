@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/480F9826-247C-49EF-A889-830FA04F3EF7.jpeg
   altText: Project thumbnail image
+  elementId: Un
 media:
   type: ImageBlock
   url: /images/bg2.jpg

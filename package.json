@@ -44,7 +44,7 @@
         "prettier": "^2.5.1",
         "sass": "^1.40.0",
         "typescript": "^4.5.2",
-        "webpack-bundle-analyzer": "^4.4.2"
+        "webpack-bundle-analyzer": "4.5.0"
     },
     "description": "A Nextjs page builder, component library and data source mapper all in one.",
     "main": "next.config.js",

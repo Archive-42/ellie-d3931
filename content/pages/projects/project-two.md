@@ -3,7 +3,7 @@ title: Another cool project
 colors: colors-a
 layout: ProjectLayout
 date: '2015-09-20'
-client: Awesome client
+client: United Nations
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead

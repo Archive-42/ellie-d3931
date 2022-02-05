@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "7xl",
+        "size": "6xl",
         "weight": "medium",
         "decoration": "underline",
         "case": "capitalize",

@@ -89,7 +89,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
-    variant: variant-d
+    variant: variant-b
     subtitle: Posts
     showFeaturedImage: true
     actions:

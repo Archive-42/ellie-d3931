@@ -45,8 +45,8 @@
     },
     "light": "#ffffff",
     "onLight": "#050806",
-    "dark": "#000000",
-    "onDark": "#feffcc",
+    "dark": "#4c4c4c",
+    "onDark": "#babaad",
     "primary": "#dff2ff",
     "onPrimary": "#ffffff",
     "secondary": "#fffe37cc",
@@ -69,7 +69,7 @@
     },
     "link": {
         "weight": "medium",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "wider"
     }
 }

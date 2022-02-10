@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "engines": {
         "node": ">=14 <17",
-        "npm": "~6"
+        "npm": "~8.5.0"
     },
     "scripts": {
         "dev": "next dev",
